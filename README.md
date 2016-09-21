@@ -2,5 +2,5 @@
 clase: Control de versiones
 turial para editar el readmi
 github
-
+editando todo
 
